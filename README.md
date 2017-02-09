@@ -3,7 +3,8 @@
 
 ![Example](/example.png?raw=true)
 
-### Install
+### Install & Test
 1. git clone `https://github.com/nateinaction/detect-white-screen`
-2. npm install (or [use Yarn!](https://yarnpkg.com/))
-3. npm test `white-screen-of-death.mystagingwebsite.com`
+2. cd ./detect-white-screen/
+3. npm install
+4. npm test `white-screen-of-death.mystagingwebsite.com`
